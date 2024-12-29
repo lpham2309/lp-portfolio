@@ -13,7 +13,6 @@ const education: Education[] = [
         field: "Computer Science",
         year: "2015 - 2018",
       },
-  // Add more education
 ];
 
 export const EducationInfo = () => {
